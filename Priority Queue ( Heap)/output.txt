@@ -1,0 +1,63 @@
+.....MAIN MENU.....
+
+1.Insert.
+2.Delete.
+3.Display.
+4.Quit.
+
+Enter your choice : 1
+Enter data to be inserted : 5
+
+
+.....MAIN MENU.....
+
+1.Insert.
+2.Delete.
+3.Display.
+4.Quit.
+
+Enter your choice : 1
+Enter data to be inserted : 3
+
+
+.....MAIN MENU.....
+
+1.Insert.
+2.Delete.
+3.Display.
+4.Quit.
+
+Enter your choice : 1
+Enter data to be inserted : 2
+
+
+.....MAIN MENU.....
+
+1.Insert.
+2.Delete.
+3.Display.
+4.Quit.
+
+Enter your choice : 3
+
+5 3 2
+
+
+.....MAIN MENU.....
+
+1.Insert.
+2.Delete.
+3.Display.
+4.Quit.
+
+Enter your choice : 2
+The deleted value is : 5
+
+.....MAIN MENU.....
+
+1.Insert.
+2.Delete.
+3.Display.
+4.Quit.
+
+Enter your choice : 4
